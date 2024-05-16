@@ -1,0 +1,7 @@
+# Usage: pip install -r requirements.txt
+
+# Base ----------------------------------------
+opencv-python
+numpy
+pillow
+os
