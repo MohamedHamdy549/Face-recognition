@@ -5,3 +5,4 @@ opencv-python
 numpy
 pillow
 os
+opencv-contrib-python --upgrade
